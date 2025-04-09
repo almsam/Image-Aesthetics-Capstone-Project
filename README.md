@@ -1,12 +1,7 @@
-# Image Aesthetics System — COSC 499-003 Team 9 Final Project
+# Image Aesthetics Application & ML algorithm
 
 **Built by**: [**Samira Almuallim**](https://github.com/almsam), [**Devstutya Pandey**](https://github.com/Devstutya), [**Saketh Anand**](https://github.com/saku1127), & [**Shakthi Vel**](https://github.com/memegamer138)
 
----
-
-## Demo: [Video Walkthrough of our system](https://www.youtube.com/watch?v=Hu2tjA3ScWY )
-
----
 
 ## Overview
 The **Aesthetix** is a web-based platform designed to collect and analyze user feedback on image aesthetics. It helps improve an image selection algorithm by learning from user preferences.
@@ -14,6 +9,8 @@ The **Aesthetix** is a web-based platform designed to collect and analyze user f
 There are two types of users:
 - **General Users:** Participate in image rating surveys and view personal results via a user dashboard.
 - **Administrators:** Manage surveys, view aggregate results, and analyze aesthetic feedback.
+
+[Video Walkthrough of our system](https://www.youtube.com/watch?v=Hu2tjA3ScWY )
 
 ---
 
