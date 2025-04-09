@@ -1,0 +1,13 @@
+rating_id, userEmail,question_id,image_id
+1,test1@example.com,1,1
+2,test1@example.com,2,4
+3,test1@example.com,3,6
+4,test1@example.com,4,7
+5,test1@example.com,5,10
+6,test2@test.com,1,1
+7,test2@test.com,2,4
+8,test2@test.com,3,5
+9,test2@test.com,4,7
+10,test2@test.com,5,10
+11,test2@test.com,6,11
+12,test2@test.com,7,13

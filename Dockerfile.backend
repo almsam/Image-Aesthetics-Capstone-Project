@@ -1,0 +1,27 @@
+# syntax=docker/dockerfile:1
+
+# Dockerfile for Python application
+FROM python:3.12
+
+# Set the working directory to the directory containing __init__.py and imageDB.py
+WORKDIR /app
+
+# Copy the entire project to the working directory
+COPY . .
+
+# Set the PYTHONPATH environment variable to include the directory containing __init__.py and imageDB.py
+ENV PYTHONPATH=/app:/app/app/src/main
+
+# Install Python dependencies
+RUN pip install -r requirements.txt
+
+# Expose the port that the Flask application will run on
+EXPOSE 5000
+
+# Set the environment variable for the Flask application
+ENV FLASK_APP=app.src.main
+# Run the Flask application
+CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
+
+# Run the Flask application using python
+#CMD ["python", "__init__.py"]
