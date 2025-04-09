@@ -1,10 +1,6 @@
 # Image Aesthetics System — COSC 499-003 Team 9 Final Project
 
-## Team Members:
-- [Samira Almuallim](https://github.com/almsam)    | 62197256  
-- [Devstutya Pandey](https://github.com/Devstutya) | 58218041  
-- [Saketh Anand](https://github.com/saku1127)      | 85786234  
-- [Shakthi Vel](https://github.com/memegamer138)   | 25147299  
+**Built by**: [**Samira Almuallim**](https://github.com/almsam), [**Devstutya Pandey**](https://github.com/Devstutya), [**Saketh Anand**](https://github.com/saku1127), & [**Shakthi Vel**](https://github.com/memegamer138)
 
 ---
 
